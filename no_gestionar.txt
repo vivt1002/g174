@@ -1,0 +1,2 @@
+Los cambios que se hagan en este archivo no nos importa
+y por eso lo ignoramos
